@@ -1,0 +1,70 @@
+(.../EAGLE-7.2.0/ulp/pcb-gcode/pcb-gcode.ulp)
+(Copyright 2005 - 2012 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../projects/QFP_32U4/QFP_32U4.brd)
+(Current profile is .../pcb-gcode/profiles/generic.pp  )
+(This file generated 2018/11/14 14:55:12)
+(Settings from pcb-machine.h)
+(spindle on time = 3.0000)
+(spindle speed = 1000.0000)
+(tool change at 0.0000 0.0000 5.0000 )
+(feed rate xy = F0.00  )
+(feed rate z  = F254.00 )
+(Z Axis Settings)
+(  High     Up        Down     Drill)
+(5.0000 	1.0000 	-0.0700 	-1.7000 )
+(Settings from pcb-defaults.h)
+(isolate min = 0.0200)
+(isolate max = 0.2000)
+(isolate step = 0.1500)
+(Generated top outlines, bottom outlines, bottom drill, )
+(Unit of measure: mm)
+( Tool|       Size       |  Min Sub |  Max Sub |   Count )
+( T01  0.610mm 0.0240in 0.0000in 0.0000in )
+( T02  1.016mm 0.0400in 0.0000in 0.0000in )
+(Metric Mode)
+G21
+(Absolute Coordinates)
+G90
+S1000
+G00 Z5.0000 
+G00 X0.0000 Y0.0000 
+M03
+G04 P3.000000
+M05
+M06 T01  ; 0.6096 
+G00 Z1.0000 
+M03
+G04 P3.000000
+G00 Z0.999998
+G00 X1.6366 Y-27.0386 
+G01 Z-1.7000 F254.00 
+G01 Z0.999998
+(R1.0000  P1.000000)
+G00 X1.7156 Y-25.1672 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X2.8970 Y-28.5530 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X5.3931 Y-28.1641 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X5.9114 Y-39.3814 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X18.6304 Y-22.5194 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X19.9316 Y-17.8396 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X17.7510 Y-16.9746 
+G01 Z-1.700000
+G01 Z0.999998
+G00 X15.5381 Y-16.3619 
+G01 Z-1.700000
+G01 Z0.999998
+M05
+M02
