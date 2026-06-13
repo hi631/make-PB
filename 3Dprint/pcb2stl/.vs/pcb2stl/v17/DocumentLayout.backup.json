@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\kitaprg\\VS2022\\pcb2stl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F41828-BD0B-4CC8-A549-A39AEE51CA0B}|pcb2stl.csproj|c:\\kitaprg\\vs2022\\pcb2stl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F41828-BD0B-4CC8-A549-A39AEE51CA0B}|pcb2stl.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F41828-BD0B-4CC8-A549-A39AEE51CA0B}|pcb2stl.csproj|C:\\kitaprg\\VS2022\\pcb2stl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9F41828-BD0B-4CC8-A549-A39AEE51CA0B}|pcb2stl.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\kitaprg\\VS2022\\pcb2stl\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\kitaprg\\VS2022\\pcb2stl\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAADwv30BAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:31:36.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\kitaprg\\VS2022\\pcb2stl\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\kitaprg\\VS2022\\pcb2stl\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:31:24.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
